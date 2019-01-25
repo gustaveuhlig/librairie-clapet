@@ -490,10 +490,12 @@ button {
 * citation
 */
 .texte-auteur {
-  font-family: 'Montserrat';
+  border-left: 2px solid grey;
   font-size: 24px;
-  font-weight: 200;
-  color: #e8a27d
+  padding-left: 20px;
+  margin-left: 250px;
+  margin-top: 50px;
+  color: #e8a27d;
 }
 .citation-auteur {
   text-align: right;
