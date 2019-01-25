@@ -295,11 +295,7 @@ button {
 */
 .separator {
   display: block;
-  margin: 50px auto;
-  width: 200px;
-  height: 1px;
-  border: none;
-  background-color: #d9d9d9;
+  margin: auto;
 }
 
 
@@ -517,3 +513,4 @@ button {
   flex: 1;
   margin-left: 25px;  
 }
+
