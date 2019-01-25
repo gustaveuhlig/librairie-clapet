@@ -485,3 +485,17 @@ button {
   text-align: center;
   margin-bottom: 35px;
 }
+
+/**
+* citation
+*/
+.texte-auteur {
+  font-family: 'Montserrat';
+  font-size: 24px;
+  font-weight: 200;
+  color: #e8a27d
+}
+.citation-auteur {
+  text-align: right;
+  color: #1a1a1a
+}
