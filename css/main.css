@@ -518,3 +518,18 @@ button {
   flex: 2;
   margin-left: 25px;  
 }
+.chapo.2 {
+font-family: 'WorkSans', sans-serif;
+font-size: 25px;
+text-align: justify;
+}
+
+.news--text {
+font-family: 'WorkSans', sans-serif;
+font-size: 20px;
+text-align: justify;
+}
+
+/** 
+* Auteurs actualite 
+*/
