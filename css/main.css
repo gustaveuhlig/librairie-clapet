@@ -514,3 +514,7 @@ button {
   margin-left: 25px;  
 }
 
+.tableau-colonne2 {
+  flex: 2;
+  margin-left: 25px;  
+}
