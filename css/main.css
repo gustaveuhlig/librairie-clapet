@@ -424,6 +424,7 @@ button {
   grid-gap: 35px;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
+  padding-top: 20px;
   margin-bottom: 35px;
 }
 
@@ -530,7 +531,3 @@ font-family: 'WorkSans', sans-serif;
 font-size: 20px;
 text-align: justify;
 }
-
-/** 
-* Auteurs actualite 
-*/
