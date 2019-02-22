@@ -522,6 +522,7 @@ button {
 font-family: 'WorkSans', sans-serif;
 font-size: 25px;
 text-align: justify;
+width: 880px;
 }
 
 .news--text {
