@@ -519,7 +519,7 @@ button {
   flex: 2;
   margin-left: 25px;  
 }
-.chapo.2 {
+.chapo2 {
 font-family: 'WorkSans', sans-serif;
 font-size: 25px;
 text-align: justify;
@@ -530,4 +530,16 @@ width: 880px;
 font-family: 'WorkSans', sans-serif;
 font-size: 20px;
 text-align: justify;
+}
+
+.gustave-grid {
+display: grid ;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: auto;
+margin-bottom: 15px;
+grid-gap: 35px;
+}
+
+.gustave-big-news {
+grid-column: span 2;
 }
